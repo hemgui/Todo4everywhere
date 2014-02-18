@@ -1,4 +1,6 @@
-Todo4everywhere
-===============
+ionic-angular-cordova-seed
+==========================
 
-Todo list poc (Angular + firebase) - InProgress
+The perfect starting point for an Ionic project.
+
+- [Ionic Tutorials](http://ionicframework.com/tutorials/)
